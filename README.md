@@ -1,5 +1,5 @@
 # CarND-Controls-MPC
-Self-Driving Car Engineer Nanodegree Program
+Johannes Paas, Self-Driving Car Engineer Nanodegree Program
 
 ---
 
